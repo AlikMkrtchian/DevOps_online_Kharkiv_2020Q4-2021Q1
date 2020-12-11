@@ -1,0 +1,56 @@
+alik22@alik22-IdeaPad-L340-15IRH-Gaming:~/Desktop/DevOps_online_Kharkiv_2020Q4-2021Q1/task1.1$ git reflog
+fb34859 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{0}: merge develop: Fast-forward
+e26af19 HEAD@{1}: checkout: moving from develop to master
+fb34859 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{2}: checkout: moving from develop to develop
+fb34859 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{3}: merge styles: Fast-forward
+760f90b (origin/images, images) HEAD@{4}: merge images: Fast-forward
+b7b62a5 HEAD@{5}: checkout: moving from styles to develop
+fb34859 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{6}: commit: add styles.css for index html
+8dbed49 HEAD@{7}: commit: add styles.css
+760f90b (origin/images, images) HEAD@{8}: checkout: moving from images to styles
+760f90b (origin/images, images) HEAD@{9}: checkout: moving from styles to images
+297932d HEAD@{10}: checkout: moving from images to styles
+760f90b (origin/images, images) HEAD@{11}: checkout: moving from images to images
+760f90b (origin/images, images) HEAD@{12}: checkout: moving from develop to images
+b7b62a5 HEAD@{13}: checkout: moving from images to develop
+760f90b (origin/images, images) HEAD@{14}: checkout: moving from styles to images
+297932d HEAD@{15}: commit: add styles
+:...skipping...
+fb34859 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{0}: merge develop: Fast-forward
+e26af19 HEAD@{1}: checkout: moving from develop to master
+fb34859 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{2}: checkout: moving from develop to develop
+fb34859 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{3}: merge styles: Fast-forward
+760f90b (origin/images, images) HEAD@{4}: merge images: Fast-forward
+b7b62a5 HEAD@{5}: checkout: moving from styles to develop
+fb34859 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{6}: commit: add styles.css for index html
+8dbed49 HEAD@{7}: commit: add styles.css
+760f90b (origin/images, images) HEAD@{8}: checkout: moving from images to styles
+760f90b (origin/images, images) HEAD@{9}: checkout: moving from styles to images
+297932d HEAD@{10}: checkout: moving from images to styles
+760f90b (origin/images, images) HEAD@{11}: checkout: moving from images to images
+760f90b (origin/images, images) HEAD@{12}: checkout: moving from develop to images
+b7b62a5 HEAD@{13}: checkout: moving from images to develop
+760f90b (origin/images, images) HEAD@{14}: checkout: moving from styles to images
+297932d HEAD@{15}: commit: add styles
+b7b62a5 HEAD@{16}: checkout: moving from images to styles
+760f90b (origin/images, images) HEAD@{17}: commit: fix ing > img
+6960cc7 HEAD@{18}: commit: fix ing > img
+cdb9b1d HEAD@{19}: commit: fix ing > img
+6d150cf HEAD@{20}: commit: fix ing > img
+10fe5d9 HEAD@{21}: commit: fix ing > img
+f8547f6 HEAD@{22}: checkout: moving from styles to images
+b7b62a5 HEAD@{23}: checkout: moving from develop to styles
+b7b62a5 HEAD@{24}: checkout: moving from images to develop
+f8547f6 HEAD@{25}: commit: link images for index.html
+76da366 HEAD@{26}: commit: add images in folder images
+b7b62a5 HEAD@{27}: checkout: moving from develop to images
+b7b62a5 HEAD@{28}: commit: add index.html file
+e26af19 HEAD@{29}: checkout: moving from master to develop
+e26af19 HEAD@{30}: commit (initial): Created Folder task1.1
+~
+~
+~
+~
+~
+~
+
