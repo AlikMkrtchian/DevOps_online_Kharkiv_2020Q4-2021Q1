@@ -10,7 +10,7 @@ Completing task 1.1 learned such things as:
 ![Image of Screenshot from 2020-12-11 12-27-17.png](https://github.com/AlikMkrtchian/DevOps_online_Kharkiv_2020Q4-2021Q1/blob/develop/task1.1/images/Screenshot%20from%202020-12-11%2012-27-17.png)
 
 # Merge
-)![Image of DeepinScreenshot_select-area_20201211135708.png](https://github.com/AlikMkrtchian/DevOps_online_Kharkiv_2020Q4-2021Q1/blob/master/task1.1/DeepinScreenshot_select-area_20201211135708.png)
+![Image of DeepinScreenshot_select-area_20201211135708.png](https://github.com/AlikMkrtchian/DevOps_online_Kharkiv_2020Q4-2021Q1/blob/master/module%201/task1.1/DeepinScreenshot_select-area_20201211135708.png)
 
 # What is devpos for me :
  1)Devops is the one who connects and improves all development processes and accelerates the product's time to market,and monitors the quality of the product. 
