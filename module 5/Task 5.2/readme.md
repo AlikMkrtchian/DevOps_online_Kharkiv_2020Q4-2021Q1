@@ -61,12 +61,12 @@ Passwd –u $ username
 / etc / passwd - replace "x" with "*"
 
 / etc / shadow - put "!" at the beginning of the password
-#10. How to remove a user's password and provide him with a password-free login
+# 10. How to remove a user's password and provide him with a password-free login
 
 to change the password later?
 
 Passwd –df $ username
-# 11. Display the extended format of information about the catalog, talk about information columns displayed on the terminal.
+
 
 # 12. What access rights exist and for whom (i.e., describe the main roles)? Briefly describe the acronym for access rights.
 
