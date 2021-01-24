@@ -68,12 +68,9 @@ Passwd –u $ username
 to change the password later?
 
 Passwd –df $ username
-# 11. Display the extended format of information about the catalog, talk about
+# 11. Display the extended format of information about the catalog, talk about information columns displayed on the terminal.
 
-information columns displayed on the terminal.
-
-# 12. What access rights exist and for whom (i.e., describe the main
-roles)? Briefly describe the acronym for access rights.
+# 12. What access rights exist and for whom (i.e., describe the main roles)? Briefly describe the acronym for access rights.
 
 Rwx - read, write, execute (resp. 000..111, or 0..7)
 
