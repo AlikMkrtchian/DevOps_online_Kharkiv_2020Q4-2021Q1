@@ -52,9 +52,7 @@ GID (Group ID)
 Userdel - r $ username
 Rm / var / mail / $ username 
 
-# 9. What commands and keys should be used to lock and
-
-unlocking a user account?
+# 9. What commands and keys should be used to lock and unlocking a user account?
 
 Passwd –l $ username
 
