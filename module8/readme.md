@@ -1,6 +1,7 @@
 # Jenkins
  ##  I create  twi Ec2 instance .
     - set up  icmp ipv4 for ec2
+    - set up jenkins user
     - set up ssh keys and installed apache server
     - set up a script with a replacement index.html
  
